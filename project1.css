@@ -32,5 +32,13 @@ li > div
 {
   color: #D6E68A;
 }
+ul.Portfolio > li
+{
+  color: #D6E68A;
+}
 
+ul.Portfolio > li.description
+{
+  color: #121310;
+}
 /* Color Palette adapted from: http://www.colourlovers.com/palette/154705/Panda_vs_Bamboo */
